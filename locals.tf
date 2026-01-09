@@ -3,7 +3,7 @@ locals {
   mod_tags = merge(
     var.base_tags,
     {
-      manager = "John Robinson (v1.0.1)"
+      manager = "Clare Hooper (v1.0.2)"
     }
   )
 
